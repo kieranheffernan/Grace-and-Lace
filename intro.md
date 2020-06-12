@@ -1,8 +1,6 @@
 # Introduction
-*Grace and Lace* is "an evangelical Christian publication for crossdressers, transgendered, and transsexuals published in Jackson, Mississippi" as described by the Digtal Transgender Archive. I converted all of the available documents to textfiles and analyzed them using Voyant, AntConc, and topic modelling. 
+*Grace and Lace* is "an evangelical Christian publication for crossdressers, transgendered, and transsexuals published in Jackson, Mississippi" in the 1990s, as described by the Digital Transgender Archive. I converted all of the available documents to textfiles and analyzed them using Voyant and AntConc.
 
-[Voyant]()
+[Voyant](https://kieranheffernan.github.io/Grace-and-Lace/voyant)
 
-[AntConc]()
-
-[Topic Modelling]()
+[AntConc](https://kieranheffernan.github.io/Grace-and-Lace/antconc)
