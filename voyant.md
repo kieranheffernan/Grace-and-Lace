@@ -1,4 +1,4 @@
-#Voyant
+# Voyant
 
 The Cirrus diagram appeared pretty much as expected.
 ![cirrus](https://github.com/kieranheffernan/Grace-and-Lace/blob/master/cirrus.PNG)
@@ -14,9 +14,7 @@ A phrase that I was also interested in associated with "church" was "church memb
 The 12th most frequent term, "god's", was also of interest to me. I wondered what kinds of things were associated possesively with God in these papers. 
 ![god's](https://github.com/kieranheffernan/Grace-and-Lace/blob/master/god's.PNG)
 
-As you can see, God is associated with very positive things here. It seem's like a lot of the content of these papers are reconciliating how the authors see God, and how their fellow Christians see him. 
+As you can see, God is associated with very positive things here. It seems like people are trying to find comfort in how God would see them, versus the institution of the church or individual churchgoers.
 
-I've also realized that some of the contents of these papers are letters asking for advice. So I searched for the term "help".
-
-It seem's like a lot of the content of these papers are reconciliating how the authors see God, and how their fellow Christians see him. 
+It seem's like a lot of the content of these papers are reconciliating how the authors see God, and how their fellow Christians see him. I think this would be something interesting to look into further: the various ways in which trans/gender-nonconforming people comforted themselves and justified their existence in a Christian setting.  
 
