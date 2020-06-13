@@ -18,3 +18,4 @@ As you can see, God is associated with very positive things here. It seems like 
 
 It seem's like a lot of the content of these papers are reconciliating how the authors see God, and how their fellow Christians see him. I think this would be something interesting to look into further: the various ways in which trans/gender-nonconforming people comforted themselves and justified their existence in a Christian setting.  
 
+See the Voyant yourself [here](https://voyant-tools.org/?corpus=7035b47fe448e0fd6f47b1b62400b026).
