@@ -12,6 +12,7 @@ Looking closer at some sentences containing the word "church", I can see the con
 A phrase that I was also interested in associated with "church" was "church member." There are much fewers instances of this phrase of course, but they seem to either describe disproval from church members or how the author's ability to love and accept others (as God would have wanted) is greater than the other church members'.
 
 The 12th most frequent term, "god's", was also of interest to me. I wondered what kinds of things were associated possesively with God in these papers. 
+
 <img src="god's.PNG">
 
 As you can see, God is associated with very positive things here. It seems like people are trying to find comfort in how God would see them, versus the institution of the church or individual churchgoers.
